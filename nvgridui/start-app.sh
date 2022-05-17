@@ -1,0 +1,1 @@
+voila app-notebook.ipynb  --no-browser --ip=0.0.0.0 --VoilaConfiguration.file_whitelist="['.*']"

@@ -1,0 +1,6 @@
+nvgrid-env
+__pycache__
+nvgrid/__pycache__/*
+.ipynb_checkpoints/*
+.ipynb_checkpoints/app-notebook-checkpoint.ipynb
+test-speed-out*

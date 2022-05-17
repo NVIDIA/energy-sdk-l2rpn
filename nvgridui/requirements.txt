@@ -1,0 +1,13 @@
+wheel
+ipyvuetify
+ipyleaflet
+notebook
+matplotlib
+ipympl
+voila
+
+grid2op
+lightsim2grid
+
+numba
+black
